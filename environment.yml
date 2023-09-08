@@ -39,7 +39,6 @@ dependencies:
   - six
   - python-dateutil
   - pickleshare
-  - ncurses
   - entrypoints
   - packaging
   - ca-certificates
@@ -57,7 +56,6 @@ dependencies:
   - python_abi
   - python=3.10
   - libzlib
-  - readline
   - libsqlite
   - ipykernel
   - jupyter
