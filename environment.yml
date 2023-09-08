@@ -1,4 +1,4 @@
-name: TUDelft
+name: CIEM6302
 channels:
   - gurobi
   - plotly
