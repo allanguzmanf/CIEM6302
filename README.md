@@ -18,13 +18,3 @@ Conversely, the "Trajectory approach" focuses on identifying the top 10 most fre
 In addition to the information provided in this file, essential aspects of the project, including the rationale behind utilizing both the "Area approach" and the "Trajectory approach" along with the outcomes and concluding remarks, are documented within the "Predictions" file. Here, readers can find a comprehensive overview of the project's results, the comparative analysis of the two methods, and the final conclusions drawn from the research.
 
 For a deeper understanding of the variables chosen and other intricate project details, readers can explore the "Data_preparation" file. This file contains explanations regarding the selection of specific variables and provides additional contextual information about various aspects of the project's data processing and preparation stages.
-
-
-
-STILL TO DO: 
-- maps with colors? (the 2 that were in the final pp) 
-- Keep map with names and where is which top-10 haven? was a nice one and good additional visualization 
-- finish the literature review with what you did 
-- predictions for leaving with the harbour as a variable 
-- predictions leaving no draught + prediction leaving no weather 
-- see points in results
